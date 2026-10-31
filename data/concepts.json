@@ -1,0 +1,12 @@
+[
+  {"concept_id": "concept-01", "name": "梅花镶钻戒", "stone_gap_mm": 0.5, "wall_mm": 1.2, "openwork_pct": 20, "mortise_count": 0, "expect": "pass"},
+  {"concept_id": "concept-02", "name": "几何镂空吊坠", "stone_gap_mm": 0.4, "wall_mm": 1.0, "openwork_pct": 40, "mortise_count": 0, "expect": "pass"},
+  {"concept_id": "concept-03", "name": "经典六爪婚戒", "stone_gap_mm": 0.6, "wall_mm": 1.5, "openwork_pct": 10, "mortise_count": 0, "expect": "pass"},
+  {"concept_id": "concept-04", "name": "榫卯首饰盒", "stone_gap_mm": 99, "wall_mm": 3.0, "openwork_pct": 5, "mortise_count": 12, "expect": "pass"},
+  {"concept_id": "concept-05", "name": "錾刻纹样手镯", "stone_gap_mm": 99, "wall_mm": 2.0, "openwork_pct": 15, "mortise_count": 0, "expect": "pass"},
+  {"concept_id": "concept-06", "name": "双层花丝耳饰", "stone_gap_mm": 0.35, "wall_mm": 0.9, "openwork_pct": 50, "mortise_count": 0, "expect": "pass"},
+  {"concept_id": "concept-07", "name": "微雕木纹挂件", "stone_gap_mm": 99, "wall_mm": 2.5, "openwork_pct": 25, "mortise_count": 6, "expect": "pass"},
+  {"concept_id": "concept-08", "name": "极细密镶环", "stone_gap_mm": 0.15, "wall_mm": 1.0, "openwork_pct": 30, "mortise_count": 0, "expect": "fail"},
+  {"concept_id": "concept-09", "name": "超薄羽翼胸针", "stone_gap_mm": 0.5, "wall_mm": 0.5, "openwork_pct": 60, "mortise_count": 0, "expect": "fail"},
+  {"concept_id": "concept-10", "name": "繁复榫卯塔", "stone_gap_mm": 99, "wall_mm": 2.0, "openwork_pct": 10, "mortise_count": 36, "expect": "fail"}
+]
